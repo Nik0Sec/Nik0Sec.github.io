@@ -1,5 +1,4 @@
 ---
-layout: acerca de
 title: Acerca de
 icon: fas fa-info
 order: 4
