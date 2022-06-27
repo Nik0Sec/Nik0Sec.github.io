@@ -16,7 +16,7 @@ order: 4
 
 <div style="width:100%;text-align:center;">
 
-<a href="my/link"> <script src="https://tryhackme.com/badge/102845"></script> </a>
+ <script src="https://tryhackme.com/badge/102845"></script>
 
 </div>
 
