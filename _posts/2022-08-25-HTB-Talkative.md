@@ -1,7 +1,7 @@
 ---
 title: HackTheBox - Talkative
 author: nik0
-date: 2022-08-25 02:10:00 +0800
+date: 2022-08-27 12:06:00 +0800
 categories: [HackTheBox]
 tags: [HTB, Hard]
 ---
