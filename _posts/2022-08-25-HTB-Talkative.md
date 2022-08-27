@@ -61,7 +61,7 @@ Podemos observar 5 puertos, los cuales ninguno posee exploits disponibles para s
 ![1](/assets/img/sample/Talkative/4.png)
 
 
-Vemos que es una página cuyo objetivo es establecer comunicaciones con otras personas (?), así que vamos a analizar que tecnologías usa con WhatWeb, que es similar a Wappalyzer(ponerlink) solo que se utiliza vía terminal.
+Vemos que es una página cuyo objetivo es establecer comunicaciones con otras personas (?), así que vamos a analizar que tecnologías usa con WhatWeb, que es similar a [**Wappalyzer**](https://www.wappalyzer.com/) solo que se utiliza vía terminal.
 
 
 ![1](/assets/img/sample/Talkative/5.png)
