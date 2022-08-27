@@ -119,7 +119,7 @@ Ahora seguimos examinando, esta vez el puerto 8080 que también corresponde a HT
 
 ## Acceso Inicial
 
-¿Que es Jamovi?
+¿Qué es Jamovi?
 
 Según la web oficial "Jamovi es una hoja de cálculo avanzada que  permite la realización de cálculos estadísticos complejos de una manera  sencilla y eficiente, utiliza R como la infraestructura subyacente y aprovecha todas sus ventajas." entonces se podría intuir que es como un tipo de Excel (?) que utiliza R cómo lenguaje de soporte para el análisis de datos, manipulación de datos, gráficos, computación estadística y análisis estadístico. En resumen, el lenguaje R ayuda a analizar conjuntos de datos más allá del análisis básico de archivos de Excel.
 
