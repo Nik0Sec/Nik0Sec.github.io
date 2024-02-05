@@ -75,7 +75,7 @@ theme_mode:  # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/sample/saikyosan.jpg
+avatar: /assets/img/sample/saikyosan.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
